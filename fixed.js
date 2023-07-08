@@ -1,5 +1,8 @@
 (function () {
 
+
+
+
     let navbar = document.querySelector('#navbar');
     let main = document.querySelector('main');
     let navbarHeight = navbar.getBoundingClientRect().height;
